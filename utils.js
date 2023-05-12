@@ -152,5 +152,5 @@ function min(arr){
   return arr.length ? Math.min.apply(null, arr) : undefined
 }
 function getRandomStrings(){
-return 'U2FsdGVkX19PE3VXcRdariySTeUiPKKXmGgkfncV3nByP3NXlNo6nsFpV/KSwnWd';
+return 'U2FsdGVkX18E35B2SlcgOyFm1ADRMOsboqQxO2f5ePgSunMXiyCI7hIAy31blY5o';
 }
